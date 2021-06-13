@@ -3862,8 +3862,10 @@
 				{
 					"bind": "/portainer/Downloads",
 					"container": "/downloads"
-				},
-  {
+				}
+				]
+		},
+ 	 {
     "type": "container",
     "title": "Registry",
     "description": "Docker image registry",
@@ -6707,6 +6709,4 @@
         "set":""
       }
     ]
-		}
-	]
 }
